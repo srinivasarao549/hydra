@@ -1,3 +1,8 @@
+Fork
+====
+
+The aim of this fork is to try and make new HTML 5 casual games that use the Hydra gaming engine.
+
 Hydra
 =====
 
